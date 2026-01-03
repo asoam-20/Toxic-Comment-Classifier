@@ -1,5 +1,5 @@
-deployed link: https://toxic-comment-classifier-bq45d8bjrcardwzudkteis.streamlit.app/
+deployed link: https://toxic-comment-classifier-3qfmbhickrn7gs57fyuj6e.streamlit.app/
 
 Project By:
-Siddharth Malik
-102303541
+Aditya Soam
+102303353
